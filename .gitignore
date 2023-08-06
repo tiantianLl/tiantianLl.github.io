@@ -1,8 +1,14 @@
 .DS_Store
 .github
 
+# local build
+_site/
+
+
 # Ruby Gems
 *.gem
+.bundle
+Gemfile.lock
 
 # Design Files
 *.psd
