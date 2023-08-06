@@ -10,7 +10,7 @@ description: My first custom PCB!
 The Actuators board is part of the mechatronics on Kraken, CUAUV’s 2020-2021 submarine. The board controls 16 pneumatic solenoid valves, which are responsible for torpedos, droppers, and the manipulator arm on the sub.
 
 <p class="text-center">
-<iframe src="https://drive.google.com/file/d/1ODc_HV4_Fd9tv0yu-TBA2TfPS2SubYZM/preview" frameBorder="0" width="70%" height="780" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1ODc_HV4_Fd9tv0yu-TBA2TfPS2SubYZM/preview" width="70%" height="500" allow="autoplay"></iframe>
 </p>
 
 This is my first project on the team! I get to put theoretical knowledge into practice and gain tons of experience along the way. Interesting topics I encounter range from adding decoupling capacitors, experimenting PWM signals, to reading data sheets, designing layout, soldering…
