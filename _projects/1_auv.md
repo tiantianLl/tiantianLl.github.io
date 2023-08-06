@@ -16,11 +16,11 @@ description: |
 {% capture carousel_images %}
 /assets/auv/sub-skeleton.JPG
 /assets/auv/going-in-water.jpg
-/assets/auv/cheer.jpg
+/assets/auv/cheer.JPG
 /assets/auv/in-pool.jpg
 /assets/auv/walk.jpg
 /assets/auv/shooting.png
-/assets/auv/sub-in-lab.jpg
+/assets/auv/sub-in-lab.JPG
 /assets/auv/project-team-fest.jpg
 /assets/auv/pool-test.jpg
 {% endcapture %}
