@@ -1,6 +1,10 @@
 .DS_Store
 .github
 
+# temp remove about and blog page
+pages/about.md
+pages/blog.html
+
 # local build
 _site/
 

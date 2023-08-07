@@ -1,6 +1,6 @@
 ---
 name: Investigating Offline Reinforcement Learning
-tools: [Reinforcement Learning, Research, Python]
+tools: [Reinforcement Learning, Research, TensorFlow, Python]
 image: https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBuZHN0dmJpamJndWQ4a2cwY3piYzZzZmt2dm83MzZxdXI5aG1hYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ekygkIYiP1ZJs6UjBR/giphy.gif
 description: Taught a half cheetah how to run using offline RL
 ---

@@ -1,6 +1,6 @@
 ---
 name: Can of Things
-tools: [Computer Vision, C, Servos]
+tools: [Computer Vision, PyTorch, C, Servos]
 image: /assets/can-of-things/can.png
 description: A trash can that can classify and sort waste - A 24hr hackathon project
 ---
