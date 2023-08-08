@@ -12,7 +12,7 @@ For this project, I want to combine Artificial Intelligence with my interest in 
 I trained a multi-stage CNN on the MS-COCO dataset and evaluated the model with Taekwondo poses.
 
 <p class="text-center">
-<iframe src="https://drive.google.com/file/d/1_JujVykHSn0L_y5ZlfUm8SPT3rI1B4mc/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1_JujVykHSn0L_y5ZlfUm8SPT3rI1B4mc/preview" width="70%" height="500" allow="autoplay"></iframe>
 
 
 
